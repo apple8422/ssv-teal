@@ -1,0 +1,38 @@
+{
+  "name": "ssv-tool",
+  "version": "1.0.3",
+  "description": "check  price",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "apple8422",
+  "license": "ISC",
+  "dependencies": {
+    "alt-price-checker": "^1.0.0",
+    "axios": "^1.6.7",
+    "bnb-price-checker": "^1.0.3",
+    "btc-price-checker": "^1.0.4",
+    "eth-price-checker": "^1.0.2",
+    "chalk": "^5.3.0",
+    "jup-price-checker": "^1.0.1",
+    "pyth-price-checker": "^1.0.3",
+    "lolex": "^1.5.2",
+    "mocha": "^3.2.0",
+    "nightwatch": "^0.9.12",
+    "opn": "^4.0.2",
+    "optimize-css-assets-webpack-plugin": "^1.3.0",
+    "ora": "^1.2.0",
+    "phantomjs-prebuilt": "^2.1.14",
+    "shell-oooooyoung": "^1.1.9",
+    "sol-price-checker": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apple8422/ssv-tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/apple8422/ssv-price-checker/issues"
+  },
+  "homepage": "https://github.com/apple8422/ssv-price-checker/blob/main/README.md"
+}
